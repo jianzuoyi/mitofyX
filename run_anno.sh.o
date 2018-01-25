@@ -1,0 +1,168 @@
+nohup: ignoring input
+
+
+Ignoring genes not found in your database : 
+    - 
+
+
+BLASTing remaining genes . . . 
+	atp1
+Argument "0.32, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Argument "0.32, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+Argument "0.31, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+	atp4
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	atp6
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	atp8
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	atp9
+	ccmB
+	ccmC
+	ccmFc
+	ccmFn
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	cob
+	cox1
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	cox2
+	cox3
+	matR
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	mttB
+	nad1
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	nad2
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	nad3
+	nad4
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	nad4L
+	nad5
+	nad6
+	nad7
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	nad9
+	rpl2
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Argument "8.2, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+Argument "0.86, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+Argument "8.2, Method: Compositional matrix adjust." isn't numeric in numeric le (<=) at mitofyX.pl line 228.
+	rpl5
+	rpl10
+	rpl16
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	rps1
+	rps2
+	rps3
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	rps4
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	rps7
+Negative repeat count does nothing at print_nt_with_gaps.pl line 149.
+	rps10
+	rps11
+	rps12
+	rps13
+	rps14
+	rps19
+	sdh3
+	sdh4
+
+BLASTing RNAs . . . 
+	Arg
+	Asn
+	Asn-cp
+	Asp
+	Cys-bacterial
+	Cys-cp
+	Cys-mt
+	Gln
+	Glu
+	Gly
+	His-cp
+	Ile
+	Ile-cp
+	Leu
+	Leu-cp
+	Lys
+	Met-cp
+	Met-f
+	Phe
+	Phe-cp
+	Pro
+	Pro-cp
+	Ser
+	Ser-cp
+	Trp-cp
+	Tyr
+	Val-cp
+	rrn5
+	rrnL
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 10515.
+	rrnS
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+Negative repeat count does nothing at annotate_rna.pl line 690, <BLASTRUN> line 15704.
+
+
+	'zzzmito_tRNAscan.out' not found, running tRNA-scan now (this might take a while) . . .
+
+Parsing tRNA-scan output . . . 
+	Met
+	Gly
+	Gln
+	His
+	Cys
+	Asn
+	Tyr
+	Met
+	Met
+	Pro
+	Trp
+	Glu
+	Thr
+	His
+	Met
+	Undet
+	Asp
+	Ser
+	Lys
+	Undet
+	Undet
+	Met
+	Phe
+	Lys
+	Ser
+	Glu
+	Tyr
+	Ser
+	Phe
+	Pro
+	Ser
+	His
+
+
+** Open 'blast_output/zzzmito/zzzmito_summary.html' and 'blast_output/zzzmito/zzzmito_rna_summary.html' in a web browser to see results. **
+
